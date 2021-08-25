@@ -5,9 +5,9 @@ This is PyTorch implementation of [YOLOv4](https://github.com/WongKinYiu/PyTorch
 
 -Dataset can be found at (https://cvgl.stanford.edu/projects/uav_data/) and csv files (https://drive.google.com/drive/u/1/folders/1QpE_iRDq1hUzYNBXSBSnmfe6SgTYE3J4)
 
--Images and labels can be found at (https://drive.google.com/drive/u/1/my-drive)
+-Images and labels can be found at (https://drive.google.com/file/d/158EtAtgLMAMpQfx2nxRaWnQrug_n9rMO/view?usp=sharing)
 
--Video for testing the training of the model can be found at (https://drive.google.com/drive/u/1/my-drive)
+-Video for testing the training of the model can be found at (https://drive.google.com/file/d/1FshjJtc0D3VfTIT1fPaHtFW_lMPo6vEe/view?usp=sharing)
 
 -After downloading the dataset copy all images to one directory (/images/)
 
