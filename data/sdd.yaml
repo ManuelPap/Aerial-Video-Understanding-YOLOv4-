@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: /home/emmanouil/Desktop/ProjectCV/PyTorch_YOLOv4/stanford_drone_dataset/images/  # 3191 images
+val:   /home/emmanouil/Desktop/ProjectCV/PyTorch_YOLOv4/stanford_drone_dataset/images/    # 394 images
+test:  /home/emmanouil/Desktop/ProjectCV/PyTorch_YOLOv4/stanford_drone_dataset/images/   # 355 images
+
+# number of classes
+nc: 6
+
+# class names
+names: ['pedestrian', 'biker', 'car', 'skater', 'cart', 'bus']
