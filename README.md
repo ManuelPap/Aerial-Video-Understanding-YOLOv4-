@@ -50,7 +50,7 @@ Run docker with GPUs
 docker run -it --gpus all manuelpapadakis/trial15 train.py
 ```
 
-## Training
+## Training without docker
 
 ```
 python3 train.py
