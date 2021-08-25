@@ -39,7 +39,7 @@ splitter.py -> splits the dataset to train set, test set and validation set. 80%
 pip install -r requirements.txt
 ```
 
-## Training
+## Training using docker
 
 ```
 Build docker 
@@ -48,4 +48,10 @@ docker build -t manuelpapadakis/trial15 .
 Run docker with GPUs
 
 docker run -it --gpus all manuelpapadakis/trial15 train.py
+```
+
+## Training
+
+```
+python3 train.py
 ```
