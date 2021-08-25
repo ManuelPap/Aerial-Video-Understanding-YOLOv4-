@@ -43,11 +43,11 @@ pip install -r requirements.txt
 
 ```
 Build docker 
-docker build -t manuelpapadakis/trial15 .
+docker build -t pytorchdocker/run1 .
 
 Run docker with GPUs
 
-docker run -it --gpus all manuelpapadakis/trial15 train.py
+docker run -it --gpus all pytorchdocker/run1 train.py
 ```
 
 ## Training without docker
